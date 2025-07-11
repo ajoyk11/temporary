@@ -2,12 +2,12 @@
 
 # 0) prepare SCRIP grid file
 export PTNAME=SW002_16
-export S_LAT=21.0
-export N_LAT=35.0
-export E_LON=112.0
-export W_LON=96.0
-export NX=800
-export NY=700
+export S_LAT=28.0
+export N_LAT=36.0
+export E_LON=73.0
+export W_LON=82.0
+export NX=32
+export NY=36
 export IMASK=1
 export GRIDFILE=${work_path}/dat/SCRIPgrid_${PTNAME}_c${cdate}.nc
 
